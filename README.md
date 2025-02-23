@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jeremievindusivyolo
-- 👀 I’m interested in web solutions development 
-- 🌱 I’m currently learning further
-- 💞️ I’m looking to collaborate on projects that has potential to impact positively humans lives
-- 📫 How to reach me jeremievindu@gmail.com
+- 👀 I’m interested in solutions solving 
+- 🌱 Opened to learn
+- 📫 How to reach out to me jeremievindu@gmail.com
